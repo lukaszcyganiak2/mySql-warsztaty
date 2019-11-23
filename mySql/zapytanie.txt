@@ -1,0 +1,2 @@
+
+SELECT * FROM ksiazki WHERE idksiazki = 1
